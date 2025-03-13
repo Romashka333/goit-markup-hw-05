@@ -525,5 +525,5 @@ ul {
 }
 
 .modal-svg {
-  fill: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
