@@ -671,7 +671,7 @@ ul {
   letter-spacing: 0.04em;
   color: #8e8f99;
 }
-.checkbox-label a {
+.checkbox-label-privacy {
   line-height: 1.17;
   text-decoration: underline;
   text-decoration-skip-ink: none;
