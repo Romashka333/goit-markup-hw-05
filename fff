@@ -1,0 +1,4 @@
+git clone https://github.com/Romashka333/goit-markup-hw-05.git
+Cloning into 'goit-markup-hw-05'...
+error: could not write config file C:/goit-markup-hw-05/.git/config: Function not implemented
+fatal: could not set 'core.repositoryformatversion' to '0'
